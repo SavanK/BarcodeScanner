@@ -1,4 +1,7 @@
-*/env/
-*/.idea/
-*/.ipynb_checkpoints/
-*/__pycache__/
+**/env/
+**/.idea/
+**/.ipynb_checkpoints/
+**/__pycache__/
+barcode_detection/automl/
+barcode_detection/pretrained_models/
+barcode_detection/tfrecords/
