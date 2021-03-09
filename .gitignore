@@ -5,3 +5,5 @@
 barcode_detection/automl/
 barcode_detection/pretrained_models/
 barcode_detection/tfrecords/
+barcode_detection/tmp/
+barcode_detection/configs/
